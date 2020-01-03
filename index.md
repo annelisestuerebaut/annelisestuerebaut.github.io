@@ -8,18 +8,18 @@ layout: default
 
 ## Find me on
 
-[LinkedIn](https://www.linkedin.com/in/anne-lise-stb-44a333151/), [GitHub](https://github.com/mokewitz)
+[LinkedIn](https://www.linkedin.com/in/anne-lise-stb-44a333151/), [GitHub](https://github.com/annelisestuerebaut?tab=repositories), [Karoo](https://karoo.me/author/anne-lise-stuerebaut)
 
 ## Contact
 
-University of Helsinki: anne-lise.stuerebaut@helsinki.fi.   
+University of Helsinki: anne-lise.stuerebaut@helsinki.fi   
 Université Catholique de Louvain: anne-lise.stuerebaut@student.uclouvain.be  
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
-
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+* [KIK-ES212:De la Sintaxis Oracional a la Sintaxis Textual](https://courses.helsinki.fi/en/kik-es212/130460263), fall 2019
+* [KIK-ES214:Historia de la Literatura Hispanoamericana](https://courses.helsinki.fi/en/kik-es214/129817583), fall 2019
+* []()
 
 ## Projects
 
