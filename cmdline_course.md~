@@ -1,0 +1,21 @@
+---
+layout: default
+---
+#Introduction 
+
+<img src="https://i.stack.imgur.com/e1q40.png" alt="Joke about command lines" hspace="45" width="50%" align="right"/> On this page, I would like to present the Command line course and what we have done during this semester. As said in the name of the course, it is a gentle introduction to command line tools for linguists and especially how to operate in a Unix-like environment. Each week, a quiz is aimed to familiarize the students with a new element: regular expressions, installing and running programs from the command line, write basic scripts, work on a remote server… Even if some topics might have been quite challenging, they are now mastered and put into practice with the use of Git and Github, and the creation of this webpage.  
+To have a clear overview of the course, there will be different sections corresponding to every week.  
+
+##Week 1
+
+##Week 2
+
+##Week 3
+
+##Week 4
+
+##Week 5
+
+##Week 6
+
+##Week 7
