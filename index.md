@@ -19,6 +19,8 @@ layout: default
 [University of Helsinki][1]: anne-lise.stuerebaut@helsinki.fi   
 [Université Catholique de Louvain][2]: anne-lise.stuerebaut@student.uclouvain.be  
 
+Here you can find my [**CV**](https://www.overleaf.com/read/twddmjkwvnwz)
+
 ## Courses I've Taken
 During my exchange semester at the [University of Helsinki][1], I've taken five courses:  
 * [KIK-EN219:Command line tools for linguists](https://courses.helsinki.fi/en/kik-lg219/129824412),fall 2019
